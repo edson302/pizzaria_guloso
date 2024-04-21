@@ -107,7 +107,7 @@ flex-direction: row;
 background-position: center center;
 background-size: cover;
 background-position-y: 50px;
- background-image: linear-gradient(rgba(29,29,29,0.8),rgba(29,29,29,0.8)),url(/assets/img/fundopizza.jpg);   
+ background-image: linear-gradient(rgba(29,29,29,0.8),rgba(29,29,29,0.8)),url(assets/img/fundopizza.jpg);   
 }
 
 
@@ -771,7 +771,7 @@ font-size: 2rem;
     .sobre-nos img{
         width: 300px;
         height: auto;
-       margin-left: 40px;
+       margin-left: 30px;
      }
  
 
