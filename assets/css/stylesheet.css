@@ -107,7 +107,7 @@ flex-direction: row;
 background-position: center center;
 background-size: cover;
 background-position-y: 50px;
- background-image:url(/assets/img/fundopizza.jpg), linear-gradient(rgba(29,29,29,0.8),rgba(29,29,29,0.8));   
+ background-image:url('assets/img/fundopizza.jpg');   
 }
 
 
